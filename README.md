@@ -1,4 +1,4 @@
-## Saral-axios-API
+## Meraki-axios-API
 SARAL is the eLearning platform of NavGurukul. Which is available on website saral.navgurukul.org created a CLI based app where users can access the content of Saral using the terminal. So basically I used Axios ( library in JavasScript used for making a HTTP requests 
 
 ## how to install node ?
